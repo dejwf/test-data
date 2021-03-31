@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx creator="mapy.cz" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <wpt lat="49.8835395277" lon="14.881747216">
+        <ele>323.294051</ele>
+        <name>Opusteny lom</name>
+    </wpt>
+    <wpt lat="49.8814722151" lon="14.8771552742">
+        <ele>333.294220514</ele>
+        <name>Babi skala</name>
+    </wpt>
+</gpx>
